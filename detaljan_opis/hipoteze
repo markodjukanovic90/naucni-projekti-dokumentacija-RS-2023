@@ -1,0 +1,6 @@
+(H1)
+TODO
+
+(H2) novih, efikasnih A*-zasnovani hibridi.
+
+Prepoznavanje tačke (čvora) koja osigurava obećavajući početak za  poziv nekog meta-heurističkog algoritma poslije izvršavanja uzastopnih A* iteracija. Neki od načina kako da se ovo i realizuje su dati na narednoj strani.   

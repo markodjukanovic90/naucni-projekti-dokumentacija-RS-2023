@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<root ptr="0x556934e23700" id="30262" symbol="11SwRootFrame" lower="30263">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x556937dc2160" id="13"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="29" nContent="106"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="19079" height="16838" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="19079" height="16838"/>
+ </infos>
+ <page ptr="0x556937766dd0" id="30263" symbol="11SwPageFrame" upper="30262" lower="30264">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7457" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9026" height="13958"/>
+  </infos>
+  <body ptr="0x556931e67c20" id="30264" symbol="11SwBodyFrame" upper="30263" lower="30285">
+   <infos>
+    <bounds left="8897" top="1724" width="9026" height="13958" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9026" height="13958"/>
+   </infos>
+   <txt ptr="0x556930701940" id="30285" symbol="11SwTextFrame" next="30284" upper="30264" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="1724" width="9026" height="269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569333e8760" id="30284" symbol="11SwTextFrame" next="30265" prev="30285" upper="30264" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="1993" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="269"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569345f1320" id="30265" symbol="11SwTextFrame" next="30266" prev="30284" upper="30264" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="2502" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x556931f4a800" id="30288" symbol="19SwFlyAtContentFrame" lower="30289">
+      <infos>
+       <bounds left="15660" top="2511" width="2856" height="760" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="2856" height="760"/>
+      </infos>
+      <notxt ptr="0x556933ceb0f0" id="30289" symbol="13SwNoTextFrame" upper="30288">
+       <infos>
+        <bounds left="15660" top="2511" width="2856" height="760" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="2856" height="760"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+Professor Guenther Raidl    <Text nLength="24" nType="PortionType::Para" nHeight="269" nWidth="2244" Portion="Professor Guenther Raidl"/>
+    <LineBreak nWidth="2244" Line="Professor Guenther Raidl"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556934b13cb0" id="30266" symbol="11SwTextFrame" next="30267" prev="30265" upper="30264" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="3011" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x556935b3b280" id="30286" symbol="19SwFlyAtContentFrame" lower="30287">
+      <infos>
+       <bounds left="15690" top="3366" width="2812" height="1081" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="2812" height="1081"/>
+      </infos>
+      <notxt ptr="0x556930e4d050" id="30287" symbol="13SwNoTextFrame" upper="30286">
+       <infos>
+        <bounds left="15690" top="3366" width="2812" height="1081" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="2812" height="1081"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+Ao.Univ.Prof. Dipl.-Ing. Dr.techn.     <Text nLength="35" nType="PortionType::Para" nHeight="269" nWidth="2975" Portion="Ao.Univ.Prof. Dipl.-Ing. Dr.techn. "/>
+    <LineBreak nWidth="2975" Line="Ao.Univ.Prof. Dipl.-Ing. Dr.techn. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556934792c10" id="30267" symbol="11SwTextFrame" next="30268" prev="30266" upper="30264" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="3520" width="9026" height="449" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9026" height="269"/>
+    </infos>
+Favoritenstrasse 9, Room HC0407    <Text nLength="31" nType="PortionType::Para" nHeight="269" nWidth="3014" Portion="Favoritenstrasse 9, Room HC0407"/>
+    <LineBreak nWidth="3014" Line="Favoritenstrasse 9, Room HC0407"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55693330f840" id="30268" symbol="11SwTextFrame" next="30269" prev="30267" upper="30264" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="3969" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+Institute of Logic and Computation, TU Wien    <Text nLength="43" nType="PortionType::Para" nHeight="269" nWidth="3974" Portion="Institute of Logic and Computation, TU Wien"/>
+    <LineBreak nWidth="3974" Line="Institute of Logic and Computation, TU Wien"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55693531b340" id="30269" symbol="11SwTextFrame" next="30270" prev="30268" upper="30264" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="4478" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556937112800" id="30270" symbol="11SwTextFrame" next="30271" prev="30269" upper="30264" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="4987" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+To whom it may concern    <Text nLength="22" nType="PortionType::Para" nHeight="269" nWidth="2211" Portion="To whom it may concern"/>
+    <LineBreak nWidth="2211" Line="To whom it may concern"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556939005000" id="30271" symbol="11SwTextFrame" next="30272" prev="30270" upper="30264" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="5496" width="9026" height="631" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="391"/>
+    </infos>
+Support letter     <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3583"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="391" nWidth="1860" Portion="Support letter "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3584"/>
+    <LineBreak nWidth="9027" Line="Support letter "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569350fde30" id="30272" symbol="11SwTextFrame" next="30273" prev="30271" upper="30264" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="6127" width="9026" height="649" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="258" width="9026" height="391"/>
+    </infos>
+      <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4513"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="391" Portion="  "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4514"/>
+    <LineBreak nWidth="9027" Line="  "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556932f9a0d0" id="30273" symbol="11SwTextFrame" next="30274" prev="30272" upper="30264" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="6776" width="9026" height="1145" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="258" width="9026" height="887"/>
+    </infos>
+The Institute of Logic and Computation, TU Wien, is an (international) partner institution with the Faculty of Sciences and Mathematics, University of Banja Luka, on the joint bilateral research project between Austria and Bosnia and Herzegovina entitled    <Text nLength="56" nType="PortionType::Text" nHeight="269" nWidth="4984" Portion="The Institute of Logic and Computation, TU Wien, is an ("/>
+    <Text nLength="13" nType="PortionType::Text" nHeight="269" nWidth="1157" Portion="international"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="269" nWidth="67" Portion=")"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="269" nWidth="50" Portion=" "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="269" nWidth="669" Portion="partner"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="269" nWidth="50" Portion=" "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="269" nWidth="907" Portion="institution"/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="269" nWidth="795" Portion=" with the"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9027" Line="The Institute of Logic and Computation, TU Wien, is an (international) partner institution with the "/>
+    <Text nLength="102" nType="PortionType::Text" nHeight="269" nWidth="8981" Portion="Faculty of Sciences and Mathematics, University of Banja Luka, on the joint bilateral research project"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9027" Line="Faculty of Sciences and Mathematics, University of Banja Luka, on the joint bilateral research project "/>
+    <Text nLength="51" nType="PortionType::Lay" nHeight="269" nWidth="4797" Portion="between Austria and Bosnia and Herzegovina entitled"/>
+    <LineBreak nWidth="4797" Line="between Austria and Bosnia and Herzegovina entitled"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569390010a0" id="30274" symbol="11SwTextFrame" next="30275" prev="30273" upper="30264" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="7921" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+  „Theretical and Algorithmic Aspects of Solving the Roman Domination Problems“    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="765"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="269" nWidth="191" Portion="  &#x201E;"/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="269" nWidth="7213" Portion="Theretical and Algorithmic Aspects of Solving the Roman Domination Problems"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="269" nWidth="92" Portion="&#x201C;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="766"/>
+    <LineBreak nWidth="9027" Line="  &#x201E;Theretical and Algorithmic Aspects of Solving the Roman Domination Problems&#x201C;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556933372eb0" id="30275" symbol="11SwTextFrame" next="30276" prev="30274" upper="30264" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="8430" width="9026" height="818" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="578"/>
+    </infos>
+The project started on 01/01/2023 with the planned date of finalization of 31/12/2024, thus the activities are currently online.     <Text nLength="95" nType="PortionType::Text" nHeight="269" nWidth="8585" Portion="The project started on 01/01/2023 with the planned date of finalization of 31/12/2024, thus the"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9027" Line="The project started on 01/01/2023 with the planned date of finalization of 31/12/2024, thus the "/>
+    <Text nLength="33" nType="PortionType::Lay" nHeight="269" nWidth="2703" Portion="activities are currently online. "/>
+    <LineBreak nWidth="2703" Line="activities are currently online. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55692fd11210" id="30276" symbol="11SwTextFrame" next="30283" prev="30275" upper="30264" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="9248" width="9026" height="818" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="578"/>
+    </infos>
+Marko Djukanović is a project coordinator of the Bosnian side, whilst I (Guenther Raidl) is coordinating the Austrian side.     <Text nLength="91" nType="PortionType::Text" nHeight="269" nWidth="7962" Portion="Marko Djukanovi&#x107; is a project coordinator of the Bosnian side, whilst I (Guenther Raidl) is"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9027" Line="Marko Djukanovi&#x107; is a project coordinator of the Bosnian side, whilst I (Guenther Raidl) is "/>
+    <Text nLength="32" nType="PortionType::Lay" nHeight="269" nWidth="2796" Portion="coordinating the Austrian side. "/>
+    <LineBreak nWidth="2796" Line="coordinating the Austrian side. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569306e0ee0" id="30283" symbol="11SwTextFrame" next="30278" prev="30276" upper="30264" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="10066" width="9026" height="1127" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="887"/>
+    </infos>
+The group of Guenther Raidl at the Institute of Logic and Computation will as the partner institution will support new projects of the partner institution in Bosnia and Herzegovina through those research activities of interest for both parties (e.g. supporting invited talks).    <Text nLength="102" nType="PortionType::Para" nHeight="269" nWidth="8953" Portion="The group of Guenther Raidl at the Institute of Logic and Computation will as the partner institution "/>
+    <LineBreak nWidth="8953" Line="The group of Guenther Raidl at the Institute of Logic and Computation will as the partner institution "/>
+    <Text nLength="93" nType="PortionType::Lay" nHeight="269" nWidth="8306" Portion="will support new projects of the partner institution in Bosnia and Herzegovina through those "/>
+    <LineBreak nWidth="8306" Line="will support new projects of the partner institution in Bosnia and Herzegovina through those "/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="269" nWidth="6743" Portion="research activities of interest for both parties (e.g. supporting invited talks)."/>
+    <LineBreak nWidth="6743" Line="research activities of interest for both parties (e.g. supporting invited talks)."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5569312dca40" id="30278" symbol="11SwTextFrame" next="30279" prev="30283" upper="30264" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="11193" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556930fc1970" id="30279" symbol="11SwTextFrame" next="30280" prev="30278" upper="30264" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="11702" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+Vienna, 30.11.2023.*****Professor Guenther Raidl    <Text nLength="8" nType="PortionType::Text" nHeight="269" nWidth="726" Portion="Vienna, "/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="269" nWidth="223" Portion="30"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="269" nWidth="167" Portion=".1"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="269" nWidth="112" Portion="1"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="269" nWidth="557" Portion=".2023."/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="269" nWidth="375" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="269" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="269" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="269" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="269" nWidth="720" Portion="*"/>
+    <Text nLength="24" nType="PortionType::Text" nHeight="269" nWidth="2244" Portion="Professor Guenther Raidl"/>
+    <LineBreak nWidth="7284" Line="Vienna, 30.11.2023.*****Professor Guenther Raidl"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55693221ff00" id="30280" symbol="11SwTextFrame" next="30281" prev="30279" upper="30264" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="12211" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x556937b015f0" id="30281" symbol="11SwTextFrame" prev="30280" upper="30264" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8897" top="12720" width="9026" height="509" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9026" height="269"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
